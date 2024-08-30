@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fourth-year Computer Science Student with a keen interest in all things Data. 📊💻 From crunching numbers to uncovering insights, I'm fascinated by the endless possibilities that data-driven roles offer.</h3>
 <h3 align="center">Currently pursuing a Bachelor's degree in Computer Science at KIET Group of Institutions, focusing on projects in Data Science and Machine Learning.</h3>
 
-<img align="right" alt="Aman Sharma" width="400" src="">
+<img align="right" alt="Aman Sharma" width="400" src="https://raw.githubusercontent.com/Aman1039/Aman1039/main/gif.webp">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman1039&label=Profile%20views&color=0e75b6&style=flat" alt="aman1039" /> </p>
