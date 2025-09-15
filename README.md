@@ -1,7 +1,6 @@
 ![logo](https://github.com/Aman1039/Aman1039/blob/main/data-science-banner-web-icon-illustration-concept-with-icon-of-analysis-structure-algorithm-process-programming-solving-knowledge-vector.jpg)
 <h1 align="center">Hi 👋, I'm Aman Sharma</h1>
 <h3 align="center">A passionate Master's Student with a keen interest in all things Data. 📊💻 From crunching numbers to uncovering insights, I'm fascinated by the endless possibilities that data-driven roles offer.</h3>
-<h3 align="center">Currently pursuing a Bachelor's degree in Computer Science at KIET Group of Institutions, focusing on projects in Data Science and Machine Learning.</h3>
 
 <img align="right" alt="Aman Sharma" width="400" src="https://raw.githubusercontent.com/Aman1039/Aman1039/main/gif.webp">
 
